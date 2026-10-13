@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+.env
+
+# Local files and development artifacts
+.DS_Store
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+/data/constitution/
+/data/constitution_archive/

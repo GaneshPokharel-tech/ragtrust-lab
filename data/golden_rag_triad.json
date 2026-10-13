@@ -1,0 +1,14 @@
+{
+  "description": "Starter demo labels for D57 RAG Triad PDF; review every label before treating as a real golden set.",
+  "filename_contains": "D57_RAG_Triad_Guardrails_Evaluation",
+  "cases": [
+    {"question": "What are the three dimensions of the RAG Triad?", "relevant_pages": [2, 3], "answerable": true},
+    {"question": "How is claim-level groundedness calculated?", "relevant_pages": [3], "answerable": true},
+    {"question": "What is the difference between intrinsic and extrinsic hallucination?", "relevant_pages": [4], "answerable": true},
+    {"question": "What are the five guardrail layers G1 to G5?", "relevant_pages": [7], "answerable": true},
+    {"question": "How should retrieved text be handled to prevent indirect prompt injection?", "relevant_pages": [8], "answerable": true},
+    {"question": "Define Hit rate at k and Precision at k.", "relevant_pages": [11], "answerable": true},
+    {"question": "Why should a system abstain when evidence is missing?", "relevant_pages": [6], "answerable": true},
+    {"question": "What was the RAG system founder's favorite breakfast this morning?", "relevant_pages": [], "answerable": false}
+  ]
+}

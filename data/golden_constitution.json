@@ -1,0 +1,141 @@
+{
+  "description": "Provisional Constitution of Nepal retrieval golden set. Labels derived from the local English PDF. Requires manual review before benchmark use.",
+  "filename_contains": "constitution_en.pdf",
+  "cases": [
+    {
+      "id": "constitution_article_1",
+      "question": "According to Article 1, what is the legal status of the Constitution?",
+      "relevant_articles": [
+        1
+      ],
+      "relevant_pages": [
+        3
+      ],
+      "answerable": true
+    },
+    {
+      "id": "constitution_article_2",
+      "question": "According to Article 2, in whom are sovereignty and State power vested?",
+      "relevant_articles": [
+        2
+      ],
+      "relevant_pages": [
+        3
+      ],
+      "answerable": true
+    },
+    {
+      "id": "constitution_article_17",
+      "question": "According to Article 17(1), when can a person be deprived of personal liberty?",
+      "relevant_articles": [
+        17
+      ],
+      "relevant_pages": [
+        8
+      ],
+      "answerable": true
+    },
+    {
+      "id": "constitution_article_18",
+      "question": "Explain all five subsections (1)-(5) of Article 18 on the right to equality.",
+      "relevant_articles": [
+        18
+      ],
+      "relevant_pages": [
+        10
+      ],
+      "answerable": true
+    },
+    {
+      "id": "constitution_article_19",
+      "question": "What protection against censorship is provided under Article 19(1)?",
+      "relevant_articles": [
+        19
+      ],
+      "relevant_pages": [
+        10
+      ],
+      "answerable": true
+    },
+    {
+      "id": "constitution_article_20",
+      "question": "Under Article 20(1), what must a detained person be informed about?",
+      "relevant_articles": [
+        20
+      ],
+      "relevant_pages": [
+        11
+      ],
+      "answerable": true
+    },
+    {
+      "id": "constitution_article_31",
+      "question": "According to Article 31(1), what right does every citizen have regarding basic education?",
+      "relevant_articles": [
+        31
+      ],
+      "relevant_pages": [
+        16
+      ],
+      "answerable": true
+    },
+    {
+      "id": "constitution_article_33",
+      "question": "What right to employment is guaranteed under Article 33(1)?",
+      "relevant_articles": [
+        33
+      ],
+      "relevant_pages": [
+        16
+      ],
+      "answerable": true
+    },
+    {
+      "id": "constitution_article_38",
+      "question": "What does Article 38(1) provide regarding women's lineage rights?",
+      "relevant_articles": [
+        38
+      ],
+      "relevant_pages": [
+        17
+      ],
+      "answerable": true
+    },
+    {
+      "id": "constitution_article_267",
+      "question": "What kind of organization is established under Article 267(1)?",
+      "relevant_articles": [
+        267
+      ],
+      "relevant_pages": [
+        156
+      ],
+      "answerable": true
+    },
+    {
+      "id": "constitution_article_308",
+      "question": "Which earlier constitution is repealed by Article 308?",
+      "relevant_articles": [
+        308
+      ],
+      "relevant_pages": [
+        184
+      ],
+      "answerable": true
+    },
+    {
+      "id": "nonexistent_article",
+      "question": "What does Article 400 of the Constitution of Nepal state?",
+      "relevant_articles": [],
+      "relevant_pages": [],
+      "answerable": false
+    },
+    {
+      "id": "current_prime_minister",
+      "question": "Who is the current Prime Minister of Nepal today?",
+      "relevant_articles": [],
+      "relevant_pages": [],
+      "answerable": false
+    }
+  ]
+}
